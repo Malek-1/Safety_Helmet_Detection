@@ -88,8 +88,6 @@ The purpose is to tracking helmets in videos using yolov5s model with best weigh
 
 This project was developed as part of our computer vision and deep learning  project at Sup'Com.
 
-<a href="https://github.com/Malek-1/Safety_Helmet_Detection">
+<a href="https://github.com/Malek-1">Malek Abbes</a>
 
-  <img src="https://contrib.rocks/image?repo=Malek-1/Safety_Helmet_Detection" width=100/>
-
-</a>
+<a href="https://github.com/Ines38">Ines Bougheriw</a>
