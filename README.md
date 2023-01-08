@@ -16,17 +16,17 @@
 
   <h4>
 
-    <a href="#Introduction">Introduction</a> |
+   <a href="#Introduction">Introduction</a> |
 
-    <a href="#Demo">Demo</a> |
+   <a href="#Demo">Demo</a> |
 
-    <a href="#Helmet Detection">Helmet Detection</a> |
+   <a href="#Helmet Detection">Helmet Detection</a> |
 
-    <a href="#Helmet Tracking">Helmet Tracking</a> |
+   <a href="#Helmet Tracking">Helmet Tracking</a> |
 
-    <a href="#References">References</a> |
+   <a href="#References">References</a> |
 
-    <a href="#Contribution">Contribution</a>
+   <a href="#Contribution">Contribution</a>
 
   </h4>
 
@@ -52,7 +52,7 @@ the first part of the notebook is implemented to detect helmets using the Harvar
 ## Demo
 
 The following images presents different scenarios of workers in the construction sites. We tagged the head parts of each worker in the photographs with a bounding box and the label “helmet,” or if they were not wearing a helmet, then labelled “head”.
-<img src="\images\workers.png">
+<img src="/images/workers.png">
 And this is a video that shows the prediction results of yolov5s model. 
 https://drive.google.com/file/d/1Rk4eQ19BabCQhamG_WKxXKXLCB8WtN3j/view?usp=share_link 
 
@@ -91,10 +91,5 @@ This project was developed as part of our computer vision and deep learning  pro
 <a href="https://github.com/Malek-1/Safety_Helmet_Detection">
 
   <img src="https://contrib.rocks/image?repo=Malek-1/Safety_Helmet_Detection" width=100/>
-
-</a>
-<a href="https://github.com/ines38">
-
-  <img src="https://contrib.rocks/image?repo=ines38/Safety_Helmet_Detection" width=100/>
 
 </a>
