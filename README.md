@@ -16,17 +16,7 @@
 
   <h4>
 
-   <a href="#Introduction">Introduction</a> |
-
-   <a href="#Demo">Demo</a> |
-
-   <a href="#Helmet Detection">Helmet Detection</a> |
-
-   <a href="#Helmet Tracking">Helmet Tracking</a> |
-
-   <a href="#References">References</a> |
-
-   <a href="#Contribution">Contribution</a>
+   <a href="#Introduction">Introduction</a> | <a href="#Demo">Demo</a> | <a href="#Helmet Detection">Helmet Detection</a> | <a href="#Helmet Tracking">Helmet Tracking</a> | <a href="#References">References</a> | <a href="#Contribution">Contribution</a>
 
   </h4>
 
@@ -78,9 +68,9 @@ The purpose is to tracking helmets in videos using yolov5s model with best weigh
 
 - Codes and Tools:
 
-  - <a href="https://github.com/ultralytics/yolov5"></a>
+  - <a href="https://github.com/ultralytics/yolov5">Yolov5 model</a>
 
-  - <a href="https://github.com/Mrinal18/NFL_Kaggle"></a>
+  - <a href="https://github.com/Mrinal18/NFL_Kaggle">tracking with yolov5 model</a>
 
   
 
